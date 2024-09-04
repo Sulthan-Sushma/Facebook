@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "facebook",
+			"problemMatcher": [],
+			"label": "npm: start - facebook",
+			"detail": "react-scripts start"
+		}
+	]
+}
